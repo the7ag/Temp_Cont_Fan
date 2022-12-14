@@ -15,6 +15,7 @@ OptoCoupler
 - [@Norhan Ahmed](https://github.com/Norhanahmed38)
 - [@Hady Hisham](https://github.com/hadyhisham1)
 - [@Sarah Sleem](https://github.com/Sarahsleem)
+- [@Duaa Wagdy](https://github.com/Duaawagdy)
 
 
 
