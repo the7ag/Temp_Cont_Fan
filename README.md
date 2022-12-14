@@ -1,11 +1,11 @@
 
 # Temprature Controlled Fan
 
-Simple Temprature controlled fan using:  
-Arduino Uno  
-DHT11  
-Relay 5V  
-OptoCoupler
+- Simple Temprature controlled fan using:  
+- Arduino Uno  
+- DHT11  
+- Relay 5V  
+- OptoCoupler
 
 
 ## Authors
@@ -16,6 +16,7 @@ OptoCoupler
 - [@Hady Hisham](https://github.com/hadyhisham1)
 - [@Sarah Sleem](https://github.com/Sarahsleem)
 - [@Duaa Wagdy](https://github.com/Duaawagdy)
+- [@Yara Mahmoud](https://github.com/Yaramahmoud-11ya)
 
 
 
