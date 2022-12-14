@@ -27,6 +27,8 @@ Fritzing Circuit
 ![Temperature_bb](https://user-images.githubusercontent.com/95578914/207643090-8cd394e8-061d-4b12-82b3-d41780a5af4c.jpg)
 
 HardWare implementation  
-Uploading WhatsApp Video 2022-12-13 at 6.43.29 PM.mp4…
+
+
+https://user-images.githubusercontent.com/95578914/207644453-bc1dd0ab-6992-4a94-aeec-941b8bad05dc.mp4
 
 
