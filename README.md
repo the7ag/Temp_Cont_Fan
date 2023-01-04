@@ -1,7 +1,7 @@
 
 # Temprature Controlled Fan
 
-- Simple Temprature controlled fan using:  
+- Simple Temperature  controlled fan using:  
 - Arduino Uno  
 - DHT11  
 - Relay 5V  
